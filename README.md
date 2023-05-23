@@ -33,6 +33,7 @@ node tree.js help
 ## Screenshots
 [![Imagem 1](https://cdn.discordapp.com/attachments/1090335771715719210/1110681636544184401/image.png)](https://cdn.discordapp.com/attachments/1090335771715719210/1110681636544184401/image.png) [![Imagem 2](https://cdn.discordapp.com/attachments/1090335771715719210/1110682190938898432/image.png)](https://cdn.discordapp.com/attachments/1090335771715719210/1110682190938898432/image.png)
 
+You can see that files have green colors, when dirs have yellow colors for better vizualization.
 
 ## Requirements
 
